@@ -2,5 +2,9 @@
     "name": "Binance Smart Chain",
     "nativeSymbol": "BNB",
     "wrappedTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "router": "0xbdb37e30833E92a14C0a474CB3318f304b8c47e3"
+    "stablecoins": [
+        "0x55d398326f99059fF775485246999027B3197955",
+        "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+    ]
 }
