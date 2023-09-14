@@ -8,6 +8,11 @@
         "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
         "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
     ],
+    "rpc": "https://arb1.arbitrum.io/rpc",
+    "explorer": "https://arbiscan.io",
+    "scanName": "Arbitrum Scan",
+    "scanAPI": "https://api.arbiscan.io/api",
+    "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-arbitrum",
     "utr": "0x2222C5F0999E74D8D88F7bbfE300147d34c22222",
     "derivable": {
         "version": 0.3,
