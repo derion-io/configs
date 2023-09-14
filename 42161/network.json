@@ -8,11 +8,15 @@
         "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
         "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
     ],
-    "utr": "0x",
+    "utr": "0x2222C5F0999E74D8D88F7bbfE300147d34c22222",
     "derivable": {
         "version": 0.3,
-        "token": "0x",
-        "factory": "0x",
-        "helper": "0x"
+        "poolFactory": "0x687961185995e5d8DfEAdcDB0CbCE2764Df8905F",
+        "logic": "0xB59498800F40799A64CD65E3b39F45Cc46F9E41E",
+        "token": "0x2D1B2527DDC8cB6693B3028dF82DE757151896E5",
+        "stateCalHelper": "0x299194f42D191e8eB711D12916BEE7DD9478335f",
+        "feeReceiver": "0x0dD21Bb7eF0Bb46a8f21193eFd5E26AaE6053640",
+        "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
+        "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547"
     }
 }
