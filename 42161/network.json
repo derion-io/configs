@@ -2,12 +2,6 @@
     "name": "Arbitrum One",
     "nativeSymbol": "ETH",
     "wrappedTokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-    "stablecoins": [
-        "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-        "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-        "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
-    ],
     "gasLimitDefault": 50000000,
     "rpc": "https://arb1.arbitrum.io/rpc",
     "explorer": "https://arbiscan.io",
@@ -15,6 +9,15 @@
     "scanAPI": "https://api.arbiscan.io/api",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-arbitrum",
     "utr": "0x2222C5F0999E74D8D88F7bbfE300147d34c22222",
+    "stablecoins": [
+        "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    ],
+    "Uniswap": {
+        "v3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+    },
     "derivable": {
         "version": 0.3,
         "poolFactory": "0x687961185995e5d8DfEAdcDB0CbCE2764Df8905F",

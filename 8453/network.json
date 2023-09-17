@@ -2,10 +2,6 @@
     "name": "Base",
     "nativeSymbol": "ETH",
     "wrappedTokenAddress": "0x4200000000000000000000000000000000000006",
-    "stablecoins": [
-        "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-        "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
-    ],
     "gasLimitDefault": 5000000,
     "rpc": "https://mainnet.base.org",
     "explorer": "https://basescan.org",
@@ -13,6 +9,13 @@
     "scanApi": "https://api.basescan.org/api",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-base",
     "utr": "0x0e690e6667D48b9E61D9C6eECcb064b8Cb3e3a54",
+    "stablecoins": [
+        "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+        "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+    ],
+    "Uniswap": {
+        "v3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+    },
     "derivable": {
         "version": 0.3,
         "poolFactory": "0xF23f5A7c17C626DF1F340b6055C4F2EDE488BA18",
