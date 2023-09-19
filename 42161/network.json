@@ -6,7 +6,7 @@
     "rpc": "https://arb1.arbitrum.io/rpc",
     "explorer": "https://arbiscan.io",
     "scanName": "Arbitrum Scan",
-    "scanAPI": "https://api.arbiscan.io/api",
+    "scanApi": "https://api.arbiscan.io/api",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-arbitrum",
     "helperContract": {
         "utr": "0x2222C5F0999E74D8D88F7bbfE300147d34c22222",
