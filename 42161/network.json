@@ -18,6 +18,11 @@
         "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
         "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
     ],
+    "tokens": {
+        "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": {
+            "symbol": "USDC.e"
+        }
+    },
     "uniswap": {
         "v3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984"
     },
