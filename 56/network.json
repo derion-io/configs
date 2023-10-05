@@ -18,6 +18,12 @@
         "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
     ],
     "tokens": {
+        "0x68a9edE3A12735c244251892c64B113fc3786179": {
+            "price": 1,
+            "symbol": "PLD",
+            "name": "Play Derivable",
+            "decimals": 18
+        }
     },
     "uniswap": {
         "v3Factory": "0xdB1d10011AD0Ff90774D0C6Bb92e5C5c8b4461F7"
