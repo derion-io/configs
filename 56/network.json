@@ -4,9 +4,9 @@
     "wrappedTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "gasLimitDefault": 8000000,
     "rpc": "https://bsc-dataseed3.binance.org",
-    "explorer": "https://bscscan.io",
+    "explorer": "https://bscscan.com",
     "scanName": "BscScan",
-    "scanApi": "https://api.bscscan.io/api",
+    "scanApi": "https://api.bscscan.com/api",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-bsc",
     "helperContract": {
         "utr": "0x2222C5F0999E74D8D88F7bbfE300147d34c22222",
