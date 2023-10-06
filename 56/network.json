@@ -8,9 +8,8 @@
     "scanName": "BscScan",
     "scanApi": "https://api.bscscan.com/api",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-bsc",
-    "startBock": 32328362,
     "helperContract": {
-        "utr": "0x2222C5F0999E74D8D88F7bbfE300147d34c22222",
+        "utr": "0x05D78D11f1B05ada41daD65B6711f05bC1C1645b",
         "multiCall": "0xcA11bde05977b3631167028862bE2a173976CA11"
     },
     "stablecoins": [
@@ -19,7 +18,7 @@
         "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
     ],
     "tokens": {
-        "0x8b29dbe49fD15E99e503e7251Cb5195d66ed289A": {
+        "0xa70926b457618DD7F7a181a5B1b964208159fdD6": {
             "price": 1,
             "symbol": "PLD",
             "name": "Play Derivable",
@@ -31,12 +30,13 @@
     },
     "derivable": {
         "version": 0.3,
-        "poolFactory": "0x8681941715fC8081b9931e10F0F6A9b62bc376Cf",
-        "logic": "0x04599d3B281C02b9611823cF58344F8b96ccB7D5",
-        "token": "0xF4304950741e43b0819d7Cc534F26fFbfCF839Da",
-        "stateCalHelper": "0xe270a63D2864af57C541373C53B29E2d2e3c1365",
+        "startBlock": 32357616,
+        "token": "0xAd983083Bf7C22d4bd0AB35058b58c167488F107",
+        "logic": "0x918D566Ab9Ea9339099177BAFdDc912C55298965",
+        "poolFactory": "0x618f40B2fe96358D85FC62Dc787234B24C40D7BD",
+        "stateCalHelper": "0x6E8C9132F879F506de446a9B59421C875848dEE5",
         "feeReceiver": "0x3621426D015Cd8ABE01Cea45b4b7c9c0E576335A",
         "tokenDescriptor": "0x66675F780B312c5ba7C78249C6FaF8B58bf4f102",
-        "playToken": "0x8b29dbe49fD15E99e503e7251Cb5195d66ed289A"
+        "playToken": "0xa70926b457618DD7F7a181a5B1b964208159fdD6"
     }
 }
