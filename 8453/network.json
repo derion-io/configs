@@ -22,6 +22,7 @@
     },
     "derivable": {
         "version": 0.3,
+        "startBock": 3290649,
         "poolFactory": "0xF23f5A7c17C626DF1F340b6055C4F2EDE488BA18",
         "logic": "0xE0FE3B315D0Bbe6e91346EC9Fb2522E4CD8A11EF",
         "token": "0x639FF414c14E0819CBfF344818926277d36B0494",
