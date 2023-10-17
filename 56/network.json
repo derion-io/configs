@@ -5,6 +5,8 @@
     "nativePriceUSD": 213.44,
     "gasLimitDefault": 8000000,
     "rpc": "https://bsc-dataseed3.binance.org",
+    "rpcGetLog": "https://bscrpc.com",
+    "rpcGetProof": "https://docs-demo.bsc.quiknode.pro/",
     "explorer": "https://bscscan.com",
     "scanName": "BscScan",
     "scanApi": "https://api.bscscan.com/api",
