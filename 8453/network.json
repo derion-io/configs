@@ -2,6 +2,7 @@
     "name": "Base",
     "nativeSymbol": "ETH",
     "wrappedTokenAddress": "0x4200000000000000000000000000000000000006",
+    "nativePriceUSD": 1589.11,
     "gasLimitDefault": 5000000,
     "rpc": "https://mainnet.base.org",
     "explorer": "https://basescan.org",

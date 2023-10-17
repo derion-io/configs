@@ -2,6 +2,7 @@
     "name": "Binance Smart Chain",
     "nativeSymbol": "BNB",
     "wrappedTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "nativePriceUSD": 213.44,
     "gasLimitDefault": 8000000,
     "rpc": "https://bsc-dataseed3.binance.org",
     "explorer": "https://bscscan.com",
