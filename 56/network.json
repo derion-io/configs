@@ -2,8 +2,11 @@
     "name": "Binance Smart Chain",
     "nativeSymbol": "BNB",
     "wrappedTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "nativePriceUSD": 213.44,
     "gasLimitDefault": 8000000,
     "rpc": "https://bsc-dataseed3.binance.org",
+    "rpcGetLog": "https://bscrpc.com",
+    "rpcGetProof": "https://docs-demo.bsc.quiknode.pro/",
     "explorer": "https://bscscan.com",
     "scanName": "BscScan",
     "scanApi": "https://api.bscscan.com/api",
@@ -19,6 +22,7 @@
     ],
     "tokens": {
         "0xa70926b457618DD7F7a181a5B1b964208159fdD6": {
+            "logo": "Ⓟ",
             "price": "0x01000000000000000000000000",
             "symbol": "PLD",
             "name": "Play Derivable",
@@ -38,6 +42,6 @@
         "feeReceiver": "0x3621426D015Cd8ABE01Cea45b4b7c9c0E576335A",
         "tokenDescriptor": "0x66675F780B312c5ba7C78249C6FaF8B58bf4f102",
         "playToken": "0xa70926b457618DD7F7a181a5B1b964208159fdD6",
-        "uniswapV2Fetcher": "0x737ae4d8bDaAdeCDbACdF7201a46bbCfa2aB104e"
+        "uniswapV2Fetcher": "0x11f29BaFce3B7B0622dF7bb59c51e15017B68eaA"
     }
 }
