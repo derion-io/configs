@@ -42,6 +42,6 @@
         "feeReceiver": "0x3621426D015Cd8ABE01Cea45b4b7c9c0E576335A",
         "tokenDescriptor": "0x66675F780B312c5ba7C78249C6FaF8B58bf4f102",
         "playToken": "0xBa95100a0c3abaD1e10414Be77347D3D0900D8c2",
-        "uniswapV2Fetcher": "0xF78034D6B0e84e0e118Af90186c1D7DfFe2C042f"
+        "uniswapV2Fetcher": "0x2ceA4a9E87Ea5423ED174827F46d66dc1B1099B4"
     }
 }
