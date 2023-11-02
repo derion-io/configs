@@ -19,8 +19,11 @@
         "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
         "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
     ],
-    "fetcher": {
-        "0x33128a8fC17869897dcE68Ed026d694621f6FDfD": "0x0000000000000000000000000000000000000000"
+    "fetchers": {
+        "0x0000000000000000000000000000000000000000": {
+            "type": "uniswap3",
+            "factory": ["0x33128a8fC17869897dcE68Ed026d694621f6FDfD"]
+        }
     },
     "uniswap": {
         "v3Factory": "0x33128a8fC17869897dcE68Ed026d694621f6FDfD"
