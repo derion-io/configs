@@ -22,9 +22,22 @@
     ],
     "tokens": {
         "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": {
+            "logo": "https://assets.coingecko.com/coins/images/6319/small/usdc.png",
             "symbol": "USDC.e",
             "name": "USD Coin (Arb1)",
             "decimals": 6
+        },
+        "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
+            "logo": "https://cdn.arken.finance/token/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "symbol": "WETH",
+            "name": "Wrapped Ether",
+            "decimals": 18
+        }
+    },
+    "fetchers": {
+        "0x0000000000000000000000000000000000000000": {
+            "type": "uniswap3",
+            "factory": ["0x1F98431c8aD98523631AE4a59f267346ea31F984"]
         }
     },
     "uniswap": {
