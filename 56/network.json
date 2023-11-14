@@ -45,9 +45,6 @@
             "factory": []
         }
     },
-    "chartReplacements": {
-        "0xce6160bB594fC055c943F59De92ceE30b8c6B32c": "0xac109C8025F272414fd9e2faA805a583708A017f"
-    },
     "uniswap": {
         "v3Factory": "0xdB1d10011AD0Ff90774D0C6Bb92e5C5c8b4461F7"
     },
