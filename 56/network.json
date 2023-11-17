@@ -25,7 +25,7 @@
     "tokens": {
         "0xBa95100a0c3abaD1e10414Be77347D3D0900D8c2": {
             "logo": "Ⓟ",
-            "price": "0x01000000000000000000000000",
+            "price": "1",
             "symbol": "PLD",
             "name": "Play Derivable",
             "decimals": 18
