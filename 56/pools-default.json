@@ -14,34 +14,40 @@
             "address": "0xb823746401D03cE7b4D748bB3E9c7a4912C68377",
             "name": "PayX",
             "symbol": "PAYX",
+            "chainId":56,
             "decimal": 18
         },
         {
             "address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
             "name": "TokenFi",
             "symbol": "TOKEN",
+            "chainId":56,
             "decimal": 9
         },
         {
             "address": "0xbd4C4dc19F208cDA6caacadadC0BFF4cd975fA34",
             "name": "Dogs Rock",
             "symbol": "DOGSROCK",
+            "chainId":56,
             "decimal": 9
         },
         {
             "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
             "name": "FLOKI",
             "symbol": "FLOKI",
+            "chainId":56,
             "decimal": 9
         },
         {
             "address": "0x4C561c1ef2109fc6b230304b114671F72820421B",
             "name": "Froggy",
             "symbol": "FROGGY",
+            "chainId":56,
             "decimal": 18
         },
         {
             "symbol": "WBNB",
+            "chainId":56,
             "name": "Wrapped BNB",
             "decimal": 18,
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
@@ -50,18 +56,21 @@
             "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
             "name": "Dogecoin",
             "symbol": "DOGE",
+            "chainId":56,
             "decimal": 8
         },
         {
             "address": "0x63f79D1de735C922cfCE240b6c1cc30A00214f8C",
             "name": "Baby Meme Coin",
             "symbol": "BabyMeme",
+            "chainId":56,
             "decimal": 9
         },
         {
             "address": "0x108D0f1Fc10Ed324f8cC65D0a91CaD11cd4994A4",
             "name": "God Of Wealth",
             "symbol": "GOW39",
+            "chainId":56,
             "decimal": 18
         }
     ]
