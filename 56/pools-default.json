@@ -12,35 +12,43 @@
     "tokens": [
         {
             "address": "0x31C77F72BCc209AD00E3B7be13d719c08cb7BA7B",
-            "baseToken": "0xb823746401D03cE7b4D748bB3E9c7a4912C68377"
+            "baseToken": "0xb823746401D03cE7b4D748bB3E9c7a4912C68377",
+            "chainId": 56
         },
         {
             "address": "0x05616b7B6Da03Fb4c773B76663816b360ccAEdE4",
-            "baseToken": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528"
+            "baseToken": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+            "chainId": 56
         },
         {
             "address": "0x402415562C5DB55Bd490c17Ad1Aac8bEcDD94100",
-            "baseToken": "0xbd4C4dc19F208cDA6caacadadC0BFF4cd975fA34"
+            "baseToken": "0xbd4C4dc19F208cDA6caacadadC0BFF4cd975fA34",
+            "chainId": 56
         },
         {
             "address": "0x231d9e7181E8479A8B40930961e93E7ed798542C",
-            "baseToken": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E"
+            "baseToken": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+            "chainId": 56
         },
         {
             "address": "0x92Fe0733C1219d1d76b09eEd091914050430AbbE",
-            "baseToken": "0x4C561c1ef2109fc6b230304b114671F72820421B"
+            "baseToken": "0x4C561c1ef2109fc6b230304b114671F72820421B",
+            "chainId": 56
         },
         {
             "address": "0x6fe9E9de56356F7eDBfcBB29FAB7cd69471a4869",
-            "baseToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+            "baseToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56
         },
         {
             "address": "0x8f6792a1CD9F922398811f288b20Ca88d713F032",
-            "baseToken": "0x63f79D1de735C922cfCE240b6c1cc30A00214f8C"
+            "baseToken": "0x63f79D1de735C922cfCE240b6c1cc30A00214f8C",
+            "chainId": 56
         },
         {
             "address": "0x33a8bA12CBc87a1a14e78F655d129dccfF177c2F",
-            "baseToken": "0x108D0f1Fc10Ed324f8cC65D0a91CaD11cd4994A4"
+            "baseToken": "0x108D0f1Fc10Ed324f8cC65D0a91CaD11cd4994A4",
+            "chainId": 56
         }
     ]
   }
