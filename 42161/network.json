@@ -45,7 +45,7 @@
     },
     "derivable": {
         "version": 0.3,
-        "startBock": 153609746,
+        "startBlock": 153609746,
         "token": "0x0819281c74BeD5423C1B3283808F8E26AAd18DBe",
         "logic": "0xc129d9694d282823EF8A154bA865D3D217458E8f",
         "poolDeployer": "0x8A32F22601200c551c8F06797127560ec0B6840E",
