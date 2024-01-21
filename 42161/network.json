@@ -34,6 +34,12 @@
             "decimals": 18
         }
     },
+    "factory": {
+        "0x1F98431c8aD98523631AE4a59f267346ea31F984": {
+            "type": "uniswap3",
+            "topic0": "0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67"
+        }
+    },
     "fetchers": {
         "0x0000000000000000000000000000000000000000": {
             "type": "uniswap3",

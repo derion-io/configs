@@ -31,6 +31,20 @@
             "decimals": 18
         }
     },
+    "factory": {
+        "0xdB1d10011AD0Ff90774D0C6Bb92e5C5c8b4461F7": {
+            "type": "uniswap3",
+            "topic0": "0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67"
+        },
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865": {
+            "type": "pancake3",
+            "topic0": "0x19b47279256b2a23a1665c810c8d55a1758940ee09377d4f8d26497a3577dc83"
+        },
+        "0x": {
+            "type": "uniswap2",
+            "topic0": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822"
+        }
+    },
     "fetchers": {
         "0x0000000000000000000000000000000000000000": {
             "type": "uniswap3",
