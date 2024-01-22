@@ -52,11 +52,11 @@
     "derivable": {
         "version": 0.3,
         "startBlock": 153609746,
+        "feeReceiver": "0x9cA9016C2B0D5547d723f0841e224a5f0aF0dcfc",
         "token": "0x0819281c74BeD5423C1B3283808F8E26AAd18DBe",
         "logic": "0xc129d9694d282823EF8A154bA865D3D217458E8f",
         "poolDeployer": "0xCDaCDd1bEa6aAAe6d4D6a2031CAF93F2E28742b2",
         "stateCalHelper": "0xbefB393633D823718822A6a587F4f0614D03851b",
-        "feeReceiver": "0x9cA9016C2B0D5547d723f0841e224a5f0aF0dcfc",
         "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
         "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547"
     }
