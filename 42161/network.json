@@ -38,6 +38,11 @@
         "0x1F98431c8aD98523631AE4a59f267346ea31F984": {
             "type": "uniswap3",
             "topic0": "0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67"
+        },
+        "0x": {
+            "type": "uniswap2",
+            "fetcher": "0xeE2F219E1E40b7D2fbb6765249cE9F5d1feaDD02",
+            "topic0": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822"
         }
     },
     "fetchers": {

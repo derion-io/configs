@@ -42,6 +42,7 @@
         },
         "0x": {
             "type": "uniswap2",
+            "fetcher": "0xeE2F219E1E40b7D2fbb6765249cE9F5d1feaDD02",
             "topic0": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822"
         }
     },
@@ -54,7 +55,7 @@
             "type": "pancake3",
             "factory": ["0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"]
         },
-        "0x2ceA4a9E87Ea5423ED174827F46d66dc1B1099B4": {
+        "0xeE2F219E1E40b7D2fbb6765249cE9F5d1feaDD02": {
             "type": "uniswap2",
             "factory": []
         }
@@ -73,6 +74,6 @@
         "poolFactory": "0xcD3f991003b2799301f6356428af541E8D41Ca24",
         "tokenDescriptor": "0x66675F780B312c5ba7C78249C6FaF8B58bf4f102",
         "playToken": "0xBa95100a0c3abaD1e10414Be77347D3D0900D8c2",
-        "uniswapV2Fetcher": "0x2ceA4a9E87Ea5423ED174827F46d66dc1B1099B4"
+        "uniswapV2Fetcher": "0xeE2F219E1E40b7D2fbb6765249cE9F5d1feaDD02"
     }
 }
