@@ -29,6 +29,27 @@
             "symbol": "PLD",
             "name": "Play Derivable",
             "decimals": 18
+        },
+        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
+            "logo": "https://cdn.arken.finance/token/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "symbol": "WBNB",
+            "name": "Wrapped BNB",
+            "decimals": 18
+        }
+    },
+    "factory": {
+        "0xdB1d10011AD0Ff90774D0C6Bb92e5C5c8b4461F7": {
+            "type": "uniswap3",
+            "topic0": "0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67"
+        },
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865": {
+            "type": "pancake3",
+            "topic0": "0x19b47279256b2a23a1665c810c8d55a1758940ee09377d4f8d26497a3577dc83"
+        },
+        "0x": {
+            "type": "uniswap2",
+            "fetcher": "0xeE2F219E1E40b7D2fbb6765249cE9F5d1feaDD02",
+            "topic0": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822"
         }
     },
     "fetchers": {
@@ -40,7 +61,7 @@
             "type": "pancake3",
             "factory": ["0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"]
         },
-        "0x2ceA4a9E87Ea5423ED174827F46d66dc1B1099B4": {
+        "0xeE2F219E1E40b7D2fbb6765249cE9F5d1feaDD02": {
             "type": "uniswap2",
             "factory": []
         }
@@ -50,14 +71,15 @@
     },
     "derivable": {
         "version": 0.3,
-        "startBlock": 32936131,
+        "startBlock": 35461314,
+        "feeReceiver": "0x9cA9016C2B0D5547d723f0841e224a5f0aF0dcfc",
         "token": "0x0819281c74BeD5423C1B3283808F8E26AAd18DBe",
-        "logic": "0x838faCe8CA0256e7C3a6ae4F60CDB7318e986360",
+        "logic": "0xc129d9694d282823EF8A154bA865D3D217458E8f",
+        "poolDeployer": "0x1e3aEfAeFA7291C3fEF07E018878Cb5753EFe0a1",
+        "stateCalHelper": "0x313160e96632268414f16b628a55875ca6A14965",
         "poolFactory": "0xcD3f991003b2799301f6356428af541E8D41Ca24",
-        "stateCalHelper": "0xC763aaE65755d72b59F8A82f2640a657147131B4",
-        "feeReceiver": "0x3621426D015Cd8ABE01Cea45b4b7c9c0E576335A",
         "tokenDescriptor": "0x66675F780B312c5ba7C78249C6FaF8B58bf4f102",
         "playToken": "0xBa95100a0c3abaD1e10414Be77347D3D0900D8c2",
-        "uniswapV2Fetcher": "0x2ceA4a9E87Ea5423ED174827F46d66dc1B1099B4"
+        "uniswapV2Fetcher": "0xeE2F219E1E40b7D2fbb6765249cE9F5d1feaDD02"
     }
 }

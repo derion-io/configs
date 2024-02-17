@@ -19,6 +19,12 @@
         "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
         "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
     ],
+    "factory": {
+        "0x33128a8fC17869897dcE68Ed026d694621f6FDfD": {
+            "type": "uniswap3",
+            "topic0": "0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67"
+        }
+    },
     "fetchers": {
         "0x0000000000000000000000000000000000000000": {
             "type": "uniswap3",
