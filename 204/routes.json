@@ -1,2 +1,6 @@
 {
+    "0x4200000000000000000000000000000000000006-0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3": [{
+        "type": "uniswap3",
+        "address": "0xaf310d32c3C2982a23CE7ec1FE152912595A4c50"
+    }]
 }
