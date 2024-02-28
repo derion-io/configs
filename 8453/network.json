@@ -10,7 +10,6 @@
     "scanApi": "https://api.basescan.org/api",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-base",
     "gtID": "base",
-    "dextoolsID": "base",
     "helperContract": {
         "utr": "0x0e690e6667D48b9E61D9C6eECcb064b8Cb3e3a54",
         "multiCall": "0xcA11bde05977b3631167028862bE2a173976CA11"
