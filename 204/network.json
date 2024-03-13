@@ -9,6 +9,7 @@
     "scanName": "opBNB Scan",
     "scanApi": "https://api-opbnb.bscscan.com/api",
     "subGraph": "",
+    "useDexToolsChart": true,
     "gtID": "opbnb",
     "helperContract": {
         "utr": "0x8Bd6072372189A12A2889a56b6ec982fD02b0B87",
