@@ -27,6 +27,12 @@
             "name": "USD Coin (Arb1)",
             "decimals": 6
         },
+        "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00": {
+            "logo": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg?1696528776",
+            "symbol": "PEPE",
+            "name": "PEPE",
+            "decimals": 18
+        },
         "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
             "logo": "https://cdn.arken.finance/token/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "symbol": "WETH",
@@ -61,7 +67,7 @@
         "token": "0x0819281c74BeD5423C1B3283808F8E26AAd18DBe",
         "logic": "0xc129d9694d282823EF8A154bA865D3D217458E8f",
         "poolDeployer": "0xCDaCDd1bEa6aAAe6d4D6a2031CAF93F2E28742b2",
-        "stateCalHelper": "0xbefB393633D823718822A6a587F4f0614D03851b",
+        "stateCalHelper": "0x891331494cCE18938134EDe2D8365aa2099BC3f1",
         "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
         "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547"
     }
