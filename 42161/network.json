@@ -58,7 +58,8 @@
         }
     },
     "uniswap": {
-        "v3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+        "v3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+        "v3Pos": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88"
     },
     "derivable": {
         "version": 0.3,
