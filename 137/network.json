@@ -9,7 +9,7 @@
     "scanName": "Polygon Scan",
     "scanApi": "https://api.polygonscan.com/api",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-arbitrum",
-    "gtID": "arbitrum",
+    "gtID": "polygon_pos",
     "helperContract": {
         "utr": "0xAe68B2DcCd3aD80a5adD5E7e566d243F64fF8BA9",
         "multiCall": "0xcA11bde05977b3631167028862bE2a173976CA11"
