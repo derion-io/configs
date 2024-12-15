@@ -15,11 +15,24 @@
         "multiCall": "0xcA11bde05977b3631167028862bE2a173976CA11"
     },
     "stablecoins": [
-        "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
         "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
         "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
     ],
     "tokens": {
+        "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270": {
+            "logo": "https://cdn.arken.finance/token/bsc/0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+            "symbol": "WPOL",
+            "name": "Wrapped Polygon",
+            "decimals": 18
+        },
+        "0x1ef5bb23e0b91c2e8480a4a2b71feb4607cb32f1": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/24591.png",
+            "symbol": "SGT",
+            "name": "Suzuverse",
+            "decimals": 8
+        }
     },
     "factory": {
         "0x1F98431c8aD98523631AE4a59f267346ea31F984": {
