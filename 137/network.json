@@ -62,7 +62,7 @@
         "token": "0x3E72Fa9C575A28cc311dCb817dD9E7b5E2E6462d",
         "logic": "0x833Fd0BAB2D5696F927A29FbcE1d5D441B404B06",
         "poolDeployer": "0x129e17D002022620e583eB17e68dD3A91d8fF398",
-        "stateCalHelper": "0x69F3C23d154FC2fB513113310DA919Fe6a7BA3b5",
+        "stateCalHelper": "0x7C867A856a13DC1b5A22Cb37b0699D37846Dd49D",
         "tokenDescriptor": "0x73ae1Bbc29dF6353266196A901cEAa4888C93CD2",
         "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547"
     }
