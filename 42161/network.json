@@ -70,6 +70,7 @@
         "poolDeployer": "0x5fF0e5bb1555b106c66921473e00e765faB97D38",
         "stateCalHelper": "0x3be9E00cF66c3ceb129F88172B08888651948D09",
         "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
+        "chainlinkFetcher": "0xa7f1d2A8031554789DF810d43b6ca1b48b251748",
         "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547"
     }
 }
