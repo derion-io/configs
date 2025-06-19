@@ -7,7 +7,7 @@
     "rpc": "https://arb1.arbitrum.io/rpc",
     "explorer": "https://arbiscan.io",
     "scanName": "Arbitrum Scan",
-    "scanApi": "https://api.arbiscan.io/api",
+    "scanApi": "https://api.etherscan.io/v2/api?chainid=42161",
     "subGraph": "https://api.thegraph.com/subgraphs/name/messari/uniswap-v3-arbitrum",
     "gtID": "arbitrum",
     "helperContract": {
