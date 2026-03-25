@@ -63,7 +63,7 @@
     },
     "derivable": {
         "version": 0.3,
-        "startBlock": 444717672,
+        "startBlock": 443647973,
         "feeReceiver": "0x2eE22d9Eb6F833b2F40Caa0aEddaCa53dd9AF282",
         "token": "0xCc84643a62dF8F4518afb5b7c84e6F0C8f5c64F5",
         "logic": "0xd4c7934fA09CEB4a1E554f97A1364373682C3F99",
