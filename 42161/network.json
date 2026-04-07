@@ -66,7 +66,7 @@
         "startBlock": 443647973,
         "feeReceiver": "0x2eE22d9Eb6F833b2F40Caa0aEddaCa53dd9AF282",
         "token": "0xCc84643a62dF8F4518afb5b7c84e6F0C8f5c64F5",
-        "logic": "0x9eA9B9591E9d26AF056C5D137748238fa3816215",
+        "logic": "0x7f06B9d68a5904b8b243efc4b63F99400d93b449",
         "poolDeployer": "0xF0215c11B6B5C5Bf573dC1593955B149C91fAF11",
         "stateCalHelper": "0x7972f27BA15D1a4eb3015BCb6f6b316f469BdAab",
         "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
