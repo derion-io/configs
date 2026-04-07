@@ -22,7 +22,6 @@
     ],
     "tokens": {
         "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": {
-            "logo": "https://assets.coingecko.com/coins/images/6319/small/usdc.png",
             "symbol": "USDC.e",
             "name": "USD Coin (Arb1)",
             "decimals": 6
