@@ -71,6 +71,7 @@
         "zapper": "0x3e188443E4847948328360f63Ee915e9089Eb94d",
         "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
         "chainlinkFetcher": "0xa7f1d2A8031554789DF810d43b6ca1b48b251748",
-        "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547"
+        "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547",
+        "rebalancer": "0x59B057EfD06d86552597d565c4E7f6044A07150B"
     }
 }
