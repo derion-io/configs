@@ -72,6 +72,6 @@
         "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
         "chainlinkFetcher": "0xa7f1d2A8031554789DF810d43b6ca1b48b251748",
         "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547",
-        "rebalancer": "0x731b346E0c4fC2beD3B1e57951F709c0B8c01308"
+        "rebalancer": "0x32f3adEc6E5eD3B8797De8D5369379961eE2302e"
     }
 }
