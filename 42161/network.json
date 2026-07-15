@@ -62,14 +62,14 @@
     },
     "derivable": {
         "version": 0.4,
-        "startBlock": 483735341,
+        "startBlock": 484058835,
         "feeReceiver": "0x602Feb84A4BAC1fAAc66b02103C8121846Aef29b",
         "token": "0x8BA69A0d3E5F37c8A14aA444d131f93B90719ed2",
         "logic": "0x95080AE8875a1ba1b88374b4C8A40EaacD08Ab39",
         "poolDeployer": "0xFBB1046B00Be053CB72519be80aFa7f104755C51",
         "stateCalHelper": "0x79B770468b2A5bCc74aAb873bC84F124E6e5D691",
         "zapper": "0xfCe3D40245561F8b23A29109CB8f3cE1826d2c1D",
-        "tokenDescriptor": "0x35C5A826D47b7Bf68e6d68Df6484a334C8728C10",
+        "tokenDescriptor": "0x3109ABe1066754e98A70c87d4E26bE37425E58E5",
         "chainlinkFetcher": "0xa7f1d2A8031554789DF810d43b6ca1b48b251748",
         "compositeFetcher": "0x64b3f00aeD11899d905533d98a09c9d8d681C547",
         "rebalancer": "0x32f3adEc6E5eD3B8797De8D5369379961eE2302e"
