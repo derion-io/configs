@@ -34,6 +34,10 @@
         "0x1f7d7550B1b028f7571E69A784071F0205FD2EfA": {
             "type": "uniswap3",
             "topic0": "0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67"
+        },
+        "0x8366a39CC670B4001A1121B8F6A443A643e40951": {
+            "type": "uniswap4",
+            "topic0": "0x40e9cecb9f5f1f1c5b9c97dec2917b7ee92e57ba5563708daca94dd84ad7112f"
         }
     },
     "fetchers": {
@@ -44,7 +48,10 @@
     },
     "uniswap": {
         "v3Factory": "0x1f7d7550B1b028f7571E69A784071F0205FD2EfA",
-        "v3Pos": "0x73991a25C818Bf1f1128dEAaB1492D45638DE0D3"
+        "v3Pos": "0x73991a25C818Bf1f1128dEAaB1492D45638DE0D3",
+        "v4PoolManager": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+        "v4Pos": "0x58daec3116aae6D93017bAAea7749052E8a04fA7",
+        "v4StateView": "0xF3334192D15450CdD385c8B70e03f9A6bD9E673b"
     },
     "derivable": {}
 }
