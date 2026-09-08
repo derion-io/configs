@@ -53,5 +53,11 @@
         "v4Pos": "0x58daec3116aae6D93017bAAea7749052E8a04fA7",
         "v4StateView": "0xF3334192D15450CdD385c8B70e03f9A6bD9E673b"
     },
-    "derivable": {}
+    "derivable": {
+        "token": "0xa7dCe14FEB8dd14Aef8Ab1B41fe5C1DE843f78de",
+        "feeReceiver": "0x602Feb84A4BAC1fAAc66b02103C8121846Aef29b",
+        "logic": "0xd665FCBCFe393FBB2D4304202Bf38140EF3970EA",
+        "poolDeployer": "0x84394DB2997E319D0711f9aFa38FF1AE16f1CD96",
+        "stateCalHelper": "0x302934753B0d5348909f56B72A59758D40Ee1ff1"
+    }
 }
