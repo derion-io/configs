@@ -59,7 +59,7 @@
         "feeReceiver": "0x602Feb84A4BAC1fAAc66b02103C8121846Aef29b",
         "logic": "0xd665FCBCFe393FBB2D4304202Bf38140EF3970EA",
         "poolDeployer": "0x84394DB2997E319D0711f9aFa38FF1AE16f1CD96",
-        "stateCalHelper": "0x302934753B0d5348909f56B72A59758D40Ee1ff1",
+        "stateCalHelper": "0xbe519da6EA646b4476314D830f941789b6d127F7",
         "robinhoodFetcher": "0x9B57911ebfABe27A0b39099F516C6C3ba2d1D254"
     }
 }
