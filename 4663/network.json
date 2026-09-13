@@ -61,5 +61,8 @@
         "poolDeployer": "0x84394DB2997E319D0711f9aFa38FF1AE16f1CD96",
         "stateCalHelper": "0xbe519da6EA646b4476314D830f941789b6d127F7",
         "robinhoodFetcher": "0x9B57911ebfABe27A0b39099F516C6C3ba2d1D254"
+    },
+    "pyth": {
+        "hermes": "https://hermes.derion.io"
     }
 }
