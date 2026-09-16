@@ -54,11 +54,11 @@
         "v4StateView": "0xF3334192D15450CdD385c8B70e03f9A6bD9E673b"
     },
     "derivable": {
-        "startBlock": 64277149,
+        "startBlock": 64424439,
         "token": "0xa7dCe14FEB8dd14Aef8Ab1B41fe5C1DE843f78de",
         "feeReceiver": "0x602Feb84A4BAC1fAAc66b02103C8121846Aef29b",
-        "logic": "0x51b448734ddbd172A98eF714Ae393Ba90C2e1Be7",
-        "poolDeployer": "0x83F942040813661D0b48eCe79Cd9B5CCD79737cc",
+        "logic": "0x9e8626116F10dba2D7368916EC203eff1BD74Ca8",
+        "poolDeployer": "0xEF1682Ba21e49fd8DCC22dF0ceB85c95E91d5f30",
         "stateCalHelper": "0xbe519da6EA646b4476314D830f941789b6d127F7",
         "robinhoodFetcher": "0x0Dc67a4B3B0165D775E8581a590D2B67B1A9F427"
     }
