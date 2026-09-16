@@ -54,7 +54,7 @@
         "v4StateView": "0xF3334192D15450CdD385c8B70e03f9A6bD9E673b"
     },
     "derivable": {
-        "startBlock": 57366573,
+        "startBlock": 64277149,
         "token": "0xa7dCe14FEB8dd14Aef8Ab1B41fe5C1DE843f78de",
         "feeReceiver": "0x602Feb84A4BAC1fAAc66b02103C8121846Aef29b",
         "logic": "0x51b448734ddbd172A98eF714Ae393Ba90C2e1Be7",
