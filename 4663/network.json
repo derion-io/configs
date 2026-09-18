@@ -27,6 +27,7 @@
         "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168": {
             "symbol": "USDG",
             "name": "Global Dollar",
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe343167631d89B6Ffc58B88d6b7fB0228795491D/logo.png",
             "decimals": 6
         }
     },
