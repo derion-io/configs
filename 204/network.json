@@ -19,6 +19,9 @@
         "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
         "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
     ],
+    "pools": [
+        "0x425a2D1Bb983614d0866410A5fB14ac9ddE7927e"
+    ],
     "tokens": {
         "0x4200000000000000000000000000000000000006": {
             "logo": "https://cdn.arken.finance/token/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",

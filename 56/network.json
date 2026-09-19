@@ -23,6 +23,10 @@
         "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
     ],
+    "pools": [
+        "0xcE3f8638A553e684AA42eC45D22e33714CFf8D73",
+        "0xCDE0253d1FFF060507a08d4B00aBC4a0d9F1AFDb"
+    ],
     "tokens": {
         "0xBa95100a0c3abaD1e10414Be77347D3D0900D8c2": {
             "logo": "Ⓟ",
