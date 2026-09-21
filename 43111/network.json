@@ -19,6 +19,13 @@
         "0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA",
         "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e"
     ],
+    "vaults": [
+        "0x5F61794B1BB42577B84Ba8A8F830ae0F3ffc88B6"
+    ],
+    "pools": [
+        "0xE2F9a0b369c66E34B87db58489372D72dFcb1FC3",
+        "0xD6E28bCDB149f8AEf8789E61C86a384FA0B0D65f"
+    ],
     "tokens": {
         "0x4200000000000000000000000000000000000006": {
             "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
