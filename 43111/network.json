@@ -2,7 +2,7 @@
     "name": "Hemi",
     "nativeSymbol": "ETH",
     "wrappedTokenAddress": "0x4200000000000000000000000000000000000006",
-    "nativePriceUSD": 2658.66,
+    "nativePriceUSD": 2658.81,
     "gasLimitDefault": 8000000,
     "rpc": "https://rpc.hemi.network/rpc",
     "explorer": "https://explorer.hemi.xyz",

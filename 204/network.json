@@ -2,7 +2,7 @@
     "name": "opBNB",
     "nativeSymbol": "BNB",
     "wrappedTokenAddress": "0x4200000000000000000000000000000000000006",
-    "nativePriceUSD": 224,
+    "nativePriceUSD": 772.23,
     "gasLimitDefault": 50000000,
     "rpc": "https://opbnb-mainnet-rpc.bnbchain.org",
     "explorer": "https://opbnb.bscscan.com/",

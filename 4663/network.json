@@ -2,7 +2,7 @@
     "name": "Robinhood Chain",
     "nativeSymbol": "ETH",
     "wrappedTokenAddress": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-    "nativePriceUSD": 2495.94,
+    "nativePriceUSD": 2658.81,
     "gasLimitDefault": 50000000,
     "rpc": "https://rpc.mainnet.chain.robinhood.com",
     "explorer": "https://robinhoodchain.blockscout.com",
